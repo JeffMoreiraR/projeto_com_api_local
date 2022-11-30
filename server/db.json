@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "jeff2@gmail.com",
+      "password": "$2a$10$xksGxUVdffTnESazuZP0v.xLdPUa7K1dIkTNYR45D4r7ruU0YQINC",
+      "userName": "Jefferson Santos",
+      "userCpf": 11111111111,
+      "userNumber": 61999999999,
+      "id": 2
+    },
+    {
+      "email": "jeff3@gmail.com",
+      "password": "$2a$10$BchF/.PJib4jbyFtbvN5qO40UKqnR/efXDhgMsER.il/eNGfpvkwK",
+      "userName": "Jefferson",
+      "userCpf": 11111111111,
+      "userNumber": 6199999999,
+      "id": 3
+    },
+    {
+      "email": "jefff5@gmail.com",
+      "password": "$2a$10$IC1ursfpG06bhCNSSpvSBODNg/GjXDrtqrKKSZxRXPomgggXiRN/u",
+      "userName": "Jefferson Santos",
+      "userCpf": 11111111111,
+      "userNumber": 619999999,
+      "id": 4
+    },
+    {
+      "email": "jessica@gmail.com",
+      "password": "$2a$10$n5EYGV3opsKrvY8Q5y2Hnu49VJH7iJRSw44ZWkmoS/h9cAUWPiLGy",
+      "userName": "Jessica",
+      "userCpf": 11111111111,
+      "userNumber": 61999999999,
+      "id": 5
+    },
+    {
+      "email": "davi@gmail.com",
+      "password": "$2a$10$9muxBc.pADOgGfHBW2fNVOHbi.RBsxrmqchpI5dvZC79ttD.voM5S",
+      "userName": "Davi",
+      "userCpf": 11111111111,
+      "userNumber": 619999999,
+      "id": 6
+    },
+    {
+      "email": "pedrdo@gmail.com",
+      "password": "$2a$10$pz3ImZBSMoSikiQlpYPQ5OcuVP.srZz8LAjloszcF55MrVDQO1btW",
+      "userName": "Pedro",
+      "userCpf": 11111111111,
+      "userNumber": 6199999999,
+      "id": 7
+    }
+  ]
+}
