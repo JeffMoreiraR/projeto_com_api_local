@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:http/http.dart' as http;
 import 'package:logger/logger.dart';
-import 'package:login_api/Users/user.dart';
+import 'package:login_api/users/user.dart';
 
 class RegisterController {
   static const String url = "http://10.0.0.193:3000/";

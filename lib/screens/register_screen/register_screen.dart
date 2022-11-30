@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_api/Users/user.dart';
+import 'package:login_api/users/user.dart';
 import 'package:login_api/controllers/register_controller.dart';
 import 'package:login_api/screens/common/dialog_exceptions.dart';
 import 'package:login_api/screens/login_screen/login_screen.dart';
